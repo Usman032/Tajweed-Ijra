@@ -1,0 +1,38 @@
+[
+  {
+    "title": "غنہ (Ghunnah)",
+    "description": "ناک سے آواز نکالنا جب نون یا میم پر تشدید ہو۔",
+    "examples": [
+      "[ghn]إِنَّ[/ghn] اللّهَ",
+      "[ghn]مِنْ[/ghn]هُمْ"
+    ]
+  },
+  {
+    "title": "ادغام (Idgham)",
+    "description": "نون ساکنہ اگلے حرف میں مل جاتا ہے۔",
+    "examples": [
+      "[idg]مَن يَقُول[/idg]"
+    ]
+  },
+  {
+    "title": "اخفاء (Ikhfa)",
+    "description": "آواز چھپا کر ادا کرنا۔",
+    "examples": [
+      "[ikh]مِنْكُم[/ikh]"
+    ]
+  },
+  {
+    "title": "قلقلہ (Qalqalah)",
+    "description": "آواز میں جھٹکا دینا۔",
+    "examples": [
+      "[qlq]قُلْ[/qlq]"
+    ]
+  },
+  {
+    "title": "مد (Madd)",
+    "description": "آواز کو کھینچنا۔",
+    "examples": [
+      "[mdd]قَالُوا[/mdd]"
+    ]
+  }
+]

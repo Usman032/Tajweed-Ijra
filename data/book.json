@@ -1,1 +1,42 @@
-
+[
+  {
+    "title": "Ghunnah",
+    "description": "A nasal sound applied to Noon and Meem with shaddah.",
+    "examples": [
+      "[ghn]إِنَّ[/ghn] اللّهَ",
+      "[ghn]مِنْ[/ghn]هُمْ"
+    ]
+  },
+  {
+    "title": "Idgham",
+    "description": "Merging of Noon Saakinah into the next letter.",
+    "examples": [
+      "[idg]مَن يَقُول[/idg]",
+      "[idg]مِن رَّبِّهِم[/idg]"
+    ]
+  },
+  {
+    "title": "Ikhfa",
+    "description": "Hiding sound between clear and merged pronunciation.",
+    "examples": [
+      "[ikh]مِنْكُم[/ikh]",
+      "[ikh]أَنْفُس[/ikh]"
+    ]
+  },
+  {
+    "title": "Qalqalah",
+    "description": "Echoing sound on ق ط ب ج د letters.",
+    "examples": [
+      "[qlq]قُلْ[/qlq]",
+      "[qlq]يَجْعَل[/qlq]"
+    ]
+  },
+  {
+    "title": "Madd",
+    "description": "Elongation of vowel sounds.",
+    "examples": [
+      "[mdd]قَالُوا[/mdd]",
+      "[mdd]جَاء[/mdd]"
+    ]
+  }
+]

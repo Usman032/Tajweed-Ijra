@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tajweed Book</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Tajweed Learning Book</h1>
+  <div class="buttons">
+    <button onclick="loadBook()">📘 Book</button>
+    <button onclick="loadSurah(1)">📖 Quran</button>
+    <button onclick="downloadPDF()">⬇️ PDF</button>
+    <button onclick="sharePage()">🔗 Share</button>
+  </div>
+</header>
+
+<main id="content"></main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
